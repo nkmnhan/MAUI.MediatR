@@ -1,7 +1,8 @@
-# Maui.MediatR
+# MAUI.MediatR
 MAUI with MediatR
 
 Simple mediator implementation with DependencyService in MAUI.
+
 Example:
 
 ```
